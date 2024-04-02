@@ -46,6 +46,8 @@ const Compras = () =>{
     }, [almacenamientoLocalCarrito]);
 
     // Fin Funcionalidad localStorage
+
+    const cantidadBebidasCarrito = almacenamientoLocalCarrito.length;
     
     return(
         <Fragment>
@@ -88,8 +90,8 @@ const Compras = () =>{
                                 />
                         </div>
                     </Tab>
-              
-                    <Tab eventKey="Carrito" title="Carrito">
+                    
+                    <Tab eventKey="Carrito" title= { "Carrito " + cantidadBebidasCarrito }> 
                         <Carrito 
                             carrito = { carrito }
                             setCarrito = { setCarrito }
@@ -103,3 +105,6 @@ const Compras = () =>{
 
 export default Compras;
 
+/*
+carrito.length()
+*/
