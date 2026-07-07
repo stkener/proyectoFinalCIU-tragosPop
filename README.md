@@ -16,31 +16,31 @@ The application consumes a public cocktail API and allows users to browse drinks
 
 ## Home
 
-![Home](./screenshots/home.png)
+![Home](./docs/home.png)
 
 ---
 
 ## Cocktail List
 
-![Cocktail List](./screenshots/lista.png)
+![Cocktail List](./docs/lista.png)
 
 ---
 
 ## Search
 
-![Search](./screenshots/buscador.png)
+![Search](./docs/buscador.png)
 
 ---
 
 ## Shopping Cart
 
-![Shopping Cart](./screenshots/carrito.png)
+![Shopping Cart](./docs/carrito.png)
 
 ---
 
 ## Assignment Requirements
 
-![Assignment Requirements](./screenshots/consignas.png)
+![Assignment Requirements](./docs/consignas.png)
 
 ---
 
