@@ -1,108 +1,136 @@
 # 🍹 Tragos Pop
 
-Trabajo práctico final desarrollado para la materia **Construcción de Interfaces de Usuario**.
+Final project developed for the **User Interface Construction** course.
 
-La aplicación consume una API pública de recetas de tragos y permite explorar bebidas, buscarlas por nombre y agregarlas a un carrito de compras simulado.
+The application consumes a public cocktail API and allows users to browse drinks, search by name, and simulate a simple shopping cart experience.
 
 ---
 
-## 🌐 Demo
+# 🌐 Live Demo
 
 🔗 https://tragospop.netlify.app/
 
 ---
 
-## 📸 Capturas
+# 📸 Screenshots
 
-### Home
+## Home
 
 ![Home](./screenshots/home.png)
 
 ---
 
-### Listado de tragos
+## Cocktail List
 
-![Listado](./screenshots/lista.png)
-
----
-
-### Búsqueda
-
-![Búsqueda](./screenshots/buscador.png)
+![Cocktail List](./screenshots/lista.png)
 
 ---
 
-### Carrito
+## Search
 
-![Carrito](./screenshots/carrito.png)
-
----
-
-### Consignas del examen
-
-![Consignas](./screenshots/consignas.png)
+![Search](./screenshots/buscador.png)
 
 ---
 
-# 🚀 Funcionalidades
+## Shopping Cart
 
-- Consulta de una API REST pública
-- Listado dinámico de tragos
-- Buscador por nombre
-- Carrito de compras simulado
-- Agregar productos al carrito
-- Eliminar productos del carrito
-- Navegación mediante React Router
-- Persistencia local del carrito
-- Sitio desplegado en Netlify
+![Shopping Cart](./screenshots/carrito.png)
 
 ---
 
-# 🛠️ Tecnologías
+## Assignment Requirements
+
+![Assignment Requirements](./screenshots/consignas.png)
+
+---
+
+# 🚀 Features
+
+- Public REST API integration
+- Dynamic cocktail catalog
+- Search cocktails by name
+- Shopping cart simulation
+- Add cocktails to the cart
+- Remove cocktails from the cart
+- Client-side navigation with React Router
+- Local persistence using Local Storage
+- Responsive navigation bar
+- Deployed on Netlify
+
+---
+
+# 🛠️ Technologies
 
 - React
-- JavaScript
+- JavaScript (ES6+)
 - React Router
 - Bootstrap
 - HTML5
 - CSS3
-- API REST
+- REST API
+- Local Storage
+- Netlify
 
 ---
 
-# 🎓 Objetivo académico
+# 🎓 Academic Objective
 
-Este proyecto fue realizado como **trabajo práctico final** de la materia **Construcción de Interfaces de Usuario**.
+This project was developed as the final assignment for the **User Interface Construction** course.
 
-El objetivo principal consistía en desarrollar una aplicación React capaz de consumir una API pública e implementar conceptos fundamentales como:
+The objective was to build a React application capable of consuming a public REST API while applying the concepts covered throughout the course.
 
-- Componentización
-- Hooks
-- Consumo de APIs REST
-- Manejo de estado
-- Navegación entre páginas
-- Persistencia local
-- Desarrollo de interfaces utilizando Bootstrap
+The project demonstrates:
 
----
-
-# 📌 Estado del proyecto
-
-✅ Finalizado.
-
-El proyecto se conserva como evidencia del aprendizaje realizado durante la cursada.
-
-Si bien cumple con los objetivos académicos propuestos, existen oportunidades de mejora para una futura versión, entre ellas:
-
-- Diseño visual más moderno
-- Responsive Design
-- Migración a Tailwind CSS
-- Mejor organización de componentes
-- Mejor experiencia de usuario
+- REST API consumption
+- Data processing
+- React Hooks
+- Component-based architecture
+- Client-side routing
+- Bootstrap user interface development
+- Local persistence with Local Storage
 
 ---
 
-# 👨‍💻 Autor
+# 📌 Project Status
+
+✅ Completed
+
+This project is preserved as part of my academic portfolio.
+
+Although it fulfills the academic requirements, there are several possible improvements for a future version:
+
+- Responsive design
+- Modern UI/UX redesign
+- Tailwind CSS migration
+- Better component organization
+- Improved state management
+- Shopping cart enhancements
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/stkener/proyectoFinalCIU-tragosPop.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm start
+```
+
+---
+
+# 👨‍💻 Author
 
 **Sebastián Kener**
 
@@ -114,6 +142,6 @@ Si bien cumple con los objetivos académicos propuestos, existen oportunidades d
 
 ---
 
-# 📄 Licencia
+# 📄 License
 
-Este proyecto fue desarrollado con fines educativos como trabajo práctico universitario y se publica como parte de mi portfolio profesional.
+This project was developed as a university assignment and is published exclusively as part of my professional portfolio.
