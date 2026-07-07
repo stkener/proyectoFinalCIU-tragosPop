@@ -1,70 +1,119 @@
-# Getting Started with Create React App
+# 🍹 Tragos Pop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Trabajo práctico final desarrollado para la materia **Construcción de Interfaces de Usuario**.
 
-## Available Scripts
+La aplicación consume una API pública de recetas de tragos y permite explorar bebidas, buscarlas por nombre y agregarlas a un carrito de compras simulado.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌐 Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔗 https://tragospop.netlify.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📸 Capturas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home
 
-### `npm run build`
+![Home](./screenshots/home.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Listado de tragos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Listado](./screenshots/lista.png)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Búsqueda
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Búsqueda](./screenshots/buscador.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Carrito
 
-## Learn More
+![Carrito](./screenshots/carrito.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Consignas del examen
 
-### Code Splitting
+![Consignas](./screenshots/consignas.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+# 🚀 Funcionalidades
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Consulta de una API REST pública
+- Listado dinámico de tragos
+- Buscador por nombre
+- Carrito de compras simulado
+- Agregar productos al carrito
+- Eliminar productos del carrito
+- Navegación mediante React Router
+- Persistencia local del carrito
+- Sitio desplegado en Netlify
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 🛠️ Tecnologías
 
-### Advanced Configuration
+- React
+- JavaScript
+- React Router
+- Bootstrap
+- HTML5
+- CSS3
+- API REST
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+# 🎓 Objetivo académico
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Este proyecto fue realizado como **trabajo práctico final** de la materia **Construcción de Interfaces de Usuario**.
 
-### `npm run build` fails to minify
+El objetivo principal consistía en desarrollar una aplicación React capaz de consumir una API pública e implementar conceptos fundamentales como:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Componentización
+- Hooks
+- Consumo de APIs REST
+- Manejo de estado
+- Navegación entre páginas
+- Persistencia local
+- Desarrollo de interfaces utilizando Bootstrap
+
+---
+
+# 📌 Estado del proyecto
+
+✅ Finalizado.
+
+El proyecto se conserva como evidencia del aprendizaje realizado durante la cursada.
+
+Si bien cumple con los objetivos académicos propuestos, existen oportunidades de mejora para una futura versión, entre ellas:
+
+- Diseño visual más moderno
+- Responsive Design
+- Migración a Tailwind CSS
+- Mejor organización de componentes
+- Mejor experiencia de usuario
+
+---
+
+# 👨‍💻 Autor
+
+**Sebastián Kener**
+
+**Technical University Programmer | Junior/Trainee Software Developer**
+
+- 🌐 **Portfolio:** https://stkener.github.io/portfolio_sebastian/
+- 💼 **LinkedIn:** https://linkedin.com/in/sebastiankener
+- 💻 **GitHub:** https://github.com/stkener
+
+---
+
+# 📄 Licencia
+
+Este proyecto fue desarrollado con fines educativos como trabajo práctico universitario y se publica como parte de mi portfolio profesional.
